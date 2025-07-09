@@ -45,7 +45,7 @@ sub_name = st.text_input("Enter Subject Name" , )
 sub_code = st.text_input("Enter Subject Code")
 
 st.warning("You can only get the paper that is available on the GTU website.")
-st.warning("Enter the correct subject code** as per the official GTU website. Incorrect codes will result in broken or missing links")
+st.warning("Enter the correct subject code as per the official GTU website. Incorrect codes will result in broken or missing links")
 # --- Action Button Logic ---
 
 # if not st.session_state.searched :
