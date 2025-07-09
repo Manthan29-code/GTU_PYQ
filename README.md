@@ -27,3 +27,9 @@ A simple Streamlit web app to quickly find and view previous year question paper
 
 ## Disclaimer
 This app is not affiliated with GTU. It simply provides convenient access to public resources already available on the GTU website.
+
+
+### Want to access past papers?
+
+Click the link below to get started:  
+[**Get Paper**](https://gtupyq.streamlit.app/)
